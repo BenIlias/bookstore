@@ -1,0 +1,9 @@
+fastapi[standard]
+uvicorn[standard]
+sqlalchemy
+passlib
+python-jose
+psycopg2
+bcrypt
+test
+stest
