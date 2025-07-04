@@ -5,3 +5,4 @@ passlib
 python-jose
 psycopg2
 bcrypt
+libadded
